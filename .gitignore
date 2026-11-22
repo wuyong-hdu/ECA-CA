@@ -1,0 +1,5 @@
+output/
+runs/
+data/*.mat
+!data/analysis_frame.mat
+*.asv

@@ -1,0 +1,84 @@
+Case 1/14: N=1600000, K=400, B=25
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=0
+  ECA-B   PTR=  10.4203 dB  mean=   6.7716 s  memory=0.413197 GB  reused=0
+  ECA-FS  PTR=  15.0261 dB  mean=   2.3357 s  memory=0.308746 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.1399 s  memory=0.104069 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 5.513618e-12 %
+Case 2/14: N=1600000, K=400, B=50
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR=   2.8093 dB  mean=   6.3139 s  memory=0.207885 GB  reused=0
+  ECA-FS  PTR=  14.5954 dB  mean=   1.3299 s  memory=0.307987 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.1510 s  memory=0.104195 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 2.522505e-12 %
+Case 3/14: N=1600000, K=400, B=100
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR=  -5.0270 dB  mean=   6.6655 s  memory=0.105229 GB  reused=0
+  ECA-FS  PTR=  14.4848 dB  mean=   0.8954 s  memory=0.307622 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.0923 s  memory=0.105216 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 3.879367e-12 %
+Case 4/14: N=1600000, K=400, B=200
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR=  -8.1506 dB  mean=   7.0162 s  memory=0.053901 GB  reused=0
+  ECA-FS  PTR=  14.8163 dB  mean=   0.6505 s  memory=0.307469 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.0826 s  memory=0.107642 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.267466e-11 %
+Case 5/14: N=1600000, K=400, B=400
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR= -12.2142 dB  mean=   9.0190 s  memory=0.028237 GB  reused=0
+  ECA-FS  PTR=  15.2827 dB  mean=   0.6575 s  memory=0.307415 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.0942 s  memory=0.112685 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.205520e-11 %
+Case 6/14: N=1600000, K=400, B=800
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR= -14.2505 dB  mean=  10.9145 s  memory=0.015405 GB  reused=0
+  ECA-FS  PTR=  14.9949 dB  mean=   0.5288 s  memory=0.307448 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.0916 s  memory=0.122867 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 5.941215e-12 %
+Case 7/14: N=1600000, K=400, B=1600
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR= -31.7632 dB  mean=  13.9956 s  memory=0.008989 GB  reused=0
+  ECA-FS  PTR=  14.7717 dB  mean=   0.4538 s  memory=0.307579 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.1150 s  memory=0.143280 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.476529e-11 %
+Case 8/14: N=1600000, K=400, B=3200
+  ECA     PTR=  13.1484 dB  mean=  14.5678 s  memory=10.265606 GB  reused=1
+  ECA-B   PTR= -24.3644 dB  mean=  19.8666 s  memory=0.005781 GB  reused=0
+  ECA-FS  PTR=  13.8485 dB  mean=   0.4294 s  memory=0.307876 GB  reused=0
+  ECA-CA  PTR=  13.1484 dB  mean=   0.1232 s  memory=0.184130 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 6.698935e-12 %
+Case 9/14: N=1600000, K=100, B=200
+  ECA     PTR=  10.6054 dB  mean=   1.8138 s  memory=2.585602 GB  reused=0
+  ECA-B   PTR=  -7.3453 dB  mean=   1.6617 s  memory=0.013186 GB  reused=0
+  ECA-FS  PTR=  14.8163 dB  mean=   0.6505 s  memory=0.307469 GB  reused=1
+  ECA-CA  PTR=  10.6054 dB  mean=   0.0714 s  memory=0.103797 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.228536e-12 %
+Case 10/14: N=1600000, K=200, B=200
+  ECA     PTR=  12.8540 dB  mean=   3.9529 s  memory=5.145603 GB  reused=0
+  ECA-B   PTR=  -8.0689 dB  mean=   3.4728 s  memory=0.026374 GB  reused=0
+  ECA-FS  PTR=  14.8163 dB  mean=   0.6505 s  memory=0.307469 GB  reused=1
+  ECA-CA  PTR=  12.8540 dB  mean=   0.0893 s  memory=0.105078 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 9.063227e-12 %
+Case 11/14: N=1600000, K=800, B=200
+  ECA     PTR=  13.2634 dB  mean=  30.0754 s  memory=20.505613 GB  reused=0
+  ECA-B   PTR=  -7.9620 dB  mean=  27.7066 s  memory=0.112794 GB  reused=0
+  ECA-FS  PTR=  14.8163 dB  mean=   0.6505 s  memory=0.307469 GB  reused=1
+  ECA-CA  PTR=  13.2634 dB  mean=   0.0921 s  memory=0.112768 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 9.801062e-12 %
+Case 12/14: N=200000, K=400, B=200
+  ECA     PTR=   8.7375 dB  mean=   1.1125 s  memory=1.283206 GB  reused=0
+  ECA-B   PTR= -24.2279 dB  mean=   1.7436 s  memory=0.008989 GB  reused=0
+  ECA-FS  PTR=   7.7138 dB  mean=   0.0796 s  memory=0.038501 GB  reused=0
+  ECA-CA  PTR=   8.7375 dB  mean=   0.0196 s  memory=0.017930 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.335489e-11 %
+Case 13/14: N=400000, K=400, B=200
+  ECA     PTR=  10.7924 dB  mean=   2.2513 s  memory=2.566406 GB  reused=0
+  ECA-B   PTR= -20.2592 dB  mean=   2.6971 s  memory=0.015405 GB  reused=0
+  ECA-FS  PTR=  11.5085 dB  mean=   0.1601 s  memory=0.076925 GB  reused=0
+  ECA-CA  PTR=  10.7924 dB  mean=   0.0282 s  memory=0.030746 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.857470e-11 %
+Case 14/14: N=800000, K=400, B=200
+  ECA     PTR=  12.3828 dB  mean=   4.5484 s  memory=5.132806 GB  reused=0
+  ECA-B   PTR= -15.0050 dB  mean=   3.6924 s  memory=0.028237 GB  reused=0
+  ECA-FS  PTR=  13.2034 dB  mean=   0.3186 s  memory=0.153773 GB  reused=0
+  ECA-CA  PTR=  12.3828 dB  mean=   0.0501 s  memory=0.056378 GB  reused=0
+  Relative residual error (ECA-CA/ECA): 1.218409e-11 %
